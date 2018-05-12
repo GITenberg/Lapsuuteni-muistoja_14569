@@ -1,0 +1,29 @@
+_repo: Lapsuuteni-muistoja_14569
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Pakkala, Teuvo
+    alias: Frosterus, Teodor Oskar
+    birthdate: 1862
+    deathdate: 1925
+    gutenberg_agent_id: '4116'
+    url: http://www.gutenberg.org/2009/agents/4116
+    wikipedia: http://fi.wikipedia.org/wiki/Teuvo_Pakkala
+description: ''
+gutenberg_issued: '2005-01-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14569'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Pakkala, Teuvo, 1862-1925'
+- !lcc 'PH'
+- !lcsh 'Authors, Finnish -- 19th century -- Biography'
+title: Lapsuuteni muistoja
+url: http://www.gutenberg.org/ebooks/14569
